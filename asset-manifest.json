@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CBMaio/Diary-react/static/css/main.87c4b47c.chunk.css",
+    "main.js": "/CBMaio/Diary-react/static/js/main.75d8ae7c.chunk.js",
+    "main.js.map": "/CBMaio/Diary-react/static/js/main.75d8ae7c.chunk.js.map",
+    "runtime-main.js": "/CBMaio/Diary-react/static/js/runtime-main.473de7e4.js",
+    "runtime-main.js.map": "/CBMaio/Diary-react/static/js/runtime-main.473de7e4.js.map",
+    "static/js/2.d1d1ff2f.chunk.js": "/CBMaio/Diary-react/static/js/2.d1d1ff2f.chunk.js",
+    "static/js/2.d1d1ff2f.chunk.js.map": "/CBMaio/Diary-react/static/js/2.d1d1ff2f.chunk.js.map",
+    "static/js/3.20c8bb7c.chunk.js": "/CBMaio/Diary-react/static/js/3.20c8bb7c.chunk.js",
+    "static/js/3.20c8bb7c.chunk.js.map": "/CBMaio/Diary-react/static/js/3.20c8bb7c.chunk.js.map",
+    "index.html": "/CBMaio/Diary-react/index.html",
+    "static/css/main.87c4b47c.chunk.css.map": "/CBMaio/Diary-react/static/css/main.87c4b47c.chunk.css.map",
+    "static/js/2.d1d1ff2f.chunk.js.LICENSE.txt": "/CBMaio/Diary-react/static/js/2.d1d1ff2f.chunk.js.LICENSE.txt",
+    "static/media/backgroundDesktop.937a6cb0.jpeg": "/CBMaio/Diary-react/static/media/backgroundDesktop.937a6cb0.jpeg",
+    "static/media/github.d3263084.png": "/CBMaio/Diary-react/static/media/github.d3263084.png",
+    "static/media/linkedin.032cf8a6.png": "/CBMaio/Diary-react/static/media/linkedin.032cf8a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.473de7e4.js",
+    "static/js/2.d1d1ff2f.chunk.js",
+    "static/css/main.87c4b47c.chunk.css",
+    "static/js/main.75d8ae7c.chunk.js"
+  ]
+}
