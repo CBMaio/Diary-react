@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Diary-react/static/css/main.52da1a19.chunk.css",
-    "main.js": "/Diary-react/static/js/main.cc78edee.chunk.js",
-    "main.js.map": "/Diary-react/static/js/main.cc78edee.chunk.js.map",
+    "main.js": "/Diary-react/static/js/main.aad0fd8c.chunk.js",
+    "main.js.map": "/Diary-react/static/js/main.aad0fd8c.chunk.js.map",
     "runtime-main.js": "/Diary-react/static/js/runtime-main.722879f2.js",
     "runtime-main.js.map": "/Diary-react/static/js/runtime-main.722879f2.js.map",
     "static/js/2.d1d1ff2f.chunk.js": "/Diary-react/static/js/2.d1d1ff2f.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.722879f2.js",
     "static/js/2.d1d1ff2f.chunk.js",
     "static/css/main.52da1a19.chunk.css",
-    "static/js/main.cc78edee.chunk.js"
+    "static/js/main.aad0fd8c.chunk.js"
   ]
 }
