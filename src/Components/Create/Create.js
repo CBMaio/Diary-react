@@ -39,7 +39,7 @@ const Create = ({ addActivity }) => {
 
   return (
     <>
-      <h3 className="mt-5">Crear tarea </h3>
+      <h3 className="mt-5 create-title">Crear tarea </h3>
       <Form onSubmit={handleSubmit}>
         <Form.Group>
           <Form.Control

@@ -5,7 +5,7 @@ import './header.css';
 const Header = memo(({ title }) => {
   console.log('hi')
   return (
-    <Row className="mb-3 pt-5 header-container">
+    <Row className="mb-3 header-container">
       <Col>
         <h1 className="text-center title"> {title} </h1>
       </Col>
