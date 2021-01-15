@@ -33,7 +33,7 @@
 
 .footer-container {
   width: 100%;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   height: 5vh;
   display: flex;
