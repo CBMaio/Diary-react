@@ -1,0 +1,13 @@
+.icon {
+    width: 20px;
+}
+
+.link {
+    height: 28px;
+}
+
+.icon-container {
+    width: 80px;
+    justify-content: space-around;
+    display: flex;
+}

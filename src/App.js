@@ -3,8 +3,9 @@ import { useState } from "react";
 import Create from "./Components/Create";
 import List from "./Components/List";
 import Header from "./Components/Header";
-import bgImage from "./Assets/Images/backgroundDesktop.jpeg"
-import './app.css';
+import bgImage from "./Assets/Images/backgroundDesktop.jpeg";
+import Footer from "./Components/Footer";
+import "./app.css";
 
 function App() {
   const [activities, setActivities] = useState([]);
@@ -37,8 +38,12 @@ function App() {
   };
 
   return (
-    <Container fluid className = 'principal-section' style={{backgroundImage:`url(${bgImage})`}}>
-      <Header title="A new year, a new opportunity"/>
+    <Container
+      fluid
+      className="principal-section"
+      style={{ backgroundImage: `url(${bgImage})` }}
+    >
+      <Header title="A new year, a new opportunity" />
       <Row className="justify-content-center agenda-container">
         <Col md={8} className=" form-container">
           <Create addActivity={addActivity} />
@@ -50,6 +55,9 @@ function App() {
             changeActivity={changeActivity}
           />
         </Col>
+      </Row>
+      <Row fluid className="footer-container">
+        <Footer />
       </Row>
     </Container>
   );

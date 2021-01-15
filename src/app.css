@@ -30,6 +30,17 @@
   top: 25vh;
 }
 
+.footer-container {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(255, 255, 255, 0.8);
+}
+
 
 @media (max-width: 1024px) {
     .agenda-container {
