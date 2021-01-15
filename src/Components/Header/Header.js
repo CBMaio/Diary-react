@@ -3,7 +3,6 @@ import { memo } from 'react';
 import './header.css';
 
 const Header = memo(({ title }) => {
-  console.log('hi')
   return (
     <Row className="mb-3 header-container">
       <Col>
